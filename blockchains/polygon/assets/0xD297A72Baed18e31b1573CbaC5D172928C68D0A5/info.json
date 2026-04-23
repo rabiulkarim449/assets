@@ -1,20 +1,19 @@
 {
   "name": "FishFi",
   "symbol": "FFI",
-  "type": "ERC20",
+  "type": "POLYGON",
   "decimals": 18,
-  "description": "FishFi (FFI) is a utility token on the Polygon network powering the FishFi ecosystem, including node rewards, referral bonuses, and decentralized trading.",
+  "description": "FishFi (FFI) is a utility token on the Polygon network powering the FishFi ecosystem.",
   "website": "https://fish-fi.com",
   "explorer": "https://polygonscan.com/token/0xD297A72Baed18e31b1573CbaC5D172928C68D0A5",
   "status": "active",
   "id": "0xD297A72Baed18e31b1573CbaC5D172928C68D0A5",
+  "tags": [
+    "defi"
+  ],
   "links": [
     {
-      "name": "website",
-      "url": "https://fish-fi.com"
-    },
-    {
-      "name": "twitter",
+      "name": "x",
       "url": "https://x.com/fish_fiinfo"
     },
     {
@@ -24,10 +23,6 @@
     {
       "name": "whitepaper",
       "url": "https://fish-fi.com/whitepaper.pdf"
-    },
-    {
-      "name": "explorer",
-      "url": "https://polygonscan.com/token/0xD297A72Baed18e31b1573CbaC5D172928C68D0A5"
     }
   ]
 }
